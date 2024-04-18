@@ -5,7 +5,6 @@ public class lec25_string_count_vowels {
          * output - 2
          */
 
-         
         String s1 = "Rani";
         int count = 0;
         for(int i = 0;i<s1.length();i++){
@@ -15,6 +14,9 @@ public class lec25_string_count_vowels {
 
         }
         System.out.println(count);
+
+    
+        
     }
     
 }
